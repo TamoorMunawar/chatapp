@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388066838036",
+    "project_id": "banerapp2014",
+    "storage_bucket": "banerapp2014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388066838036:android:0825ca29172655621d0901",
+        "android_client_info": {
+          "package_name": "com.ontechinc.firchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC1IdBm7AR7ORY07mb4SefmyqJFX5KBys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

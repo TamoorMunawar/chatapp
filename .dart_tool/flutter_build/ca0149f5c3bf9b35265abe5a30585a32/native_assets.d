@@ -1,0 +1,1 @@
+ /Users/tamoormunawar/Documents/Projects/fiberchat/.dart_tool/flutter_build/ca0149f5c3bf9b35265abe5a30585a32/native_assets.yaml: 
